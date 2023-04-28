@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/grpc_practice.iml" filepath="$PROJECT_DIR$/.idea/grpc_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pcbook.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pcbook.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pcbook.test.iml" filepath="$PROJECT_DIR$/.idea/modules/pcbook.test.iml" />
     </modules>
   </component>
 </project>
